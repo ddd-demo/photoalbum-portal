@@ -1,4 +1,4 @@
-package com.fengtaiguang.photoalbum.portal.web.controller.spring;
+package com.fengtaiguang.photoalbum.portal.web.spring.controller;
 
 public class AlbumControllerSpring {
 
